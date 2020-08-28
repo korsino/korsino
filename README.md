@@ -14,5 +14,5 @@ I'm Kanjanapa from Thailand. I really enjoy learning languages and trying the ne
 <i>Note:</i> Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github (not included private repo), it's a feature of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a><br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korsino&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korsino&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=korsino&show_icons=true&theme=radical&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
