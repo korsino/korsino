@@ -4,7 +4,7 @@ I'm Kanjanapa from Thailand. I really enjoy learning languages and trying the ne
 
 💼 Software Engineer <br>
 💻 Backend Developer (Node.js)<br>
-🌐  Wordpress (Check out the website that I did for INET's joint venture https://www.thaidotcompayment.co.th/)<br>
+🌐  Wordpress (Check out the website that I did for INET's joint venture <a href="https://www.thaidotcompayment.co.th/" target="_blank">https://www.thaidotcompayment.co.th)</a><br>
 ❤  Learning Vue.js, Flutter<br>
 
 # Find me on: 
