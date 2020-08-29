@@ -8,10 +8,10 @@ I'm Kanjanapa from Thailand. I really enjoy learning languages and trying the ne
 ❤  Learning Vue.js, Flutter<br>
 
 # Find me on: 
-  <li>Learning the new thing on <a href="https://dev.to/korsino">Dev.to<a>
-  <li>Sharing updates on <a href="https://www.linkedin.com/in/kanjanapa-srisuwan/">LinkedIn</a>
+  <li>Learning the new thing on <a href="https://dev.to/korsino" target="_blank">Dev.to<a>
+  <li>Sharing updates on <a href="https://www.linkedin.com/in/kanjanapa-srisuwan/" target="_blank">LinkedIn</a>
   
-<i>Note:</i> Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github (not included private repo), it's a feature of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a><br><br>
+<i>Note:</i> Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github (not included private repo), it's a feature of <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">github-readme-stats</a><br><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korsino&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
